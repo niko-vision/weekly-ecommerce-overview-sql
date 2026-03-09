@@ -20,3 +20,4 @@ week_start, channel, device
 
 ## Dashboard preview
 
+![Weekly E-commerce Overview dashboard](dashboard.png)
